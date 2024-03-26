@@ -3,11 +3,5 @@
 ################################################################################
 
 /.vs
-/publiclib.Cache/bin/Debug/net8.0
-/publiclib.Cache/obj
-/publiclib.Config/bin/Debug/net8.0
-/publiclib.Config/obj
-/publiclib.DB/bin/Debug/net8.0
-/publiclib.DB/obj
-/publiclib.Utils/obj
-/publiclib.Utils/bin/Debug/net8.0
+*/bin
+*/obj
